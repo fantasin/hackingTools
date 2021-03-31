@@ -55,6 +55,11 @@
 
 - https://github.com/blukat29/regex-crossword-solver (regex-crossword-solver)
 
+
+<img src="./images/crossword.jpg" width="100" height="100"
+     style="float: left; margin-right: 10px;" />
+
+
 ### Finder 
 - https://tineye.com/ (image finder)
 - 
