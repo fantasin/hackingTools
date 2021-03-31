@@ -12,6 +12,7 @@
 
 ## Steganography
 
+- http://www.jjtc.com/Steganography/tools.html (liste application Stenography)
 - https://incoherency.co.uk/image-steganography/#unhide (bruit image)
 
 
@@ -40,3 +41,12 @@
 ### Apk 
 
 - https://www.sisik.eu/apk-dump (decompile Android app code into human readable)
+
+### Transformation 
+
+- https://codepen.io/abdhass/full/jdRNdj (hex2Image)
+
+### IDE
+
+- http://vii5ard.github.io/whitespace/ (WhiteSpace avec assambleur)
+- https://www.jdoodle.com/execute-whitespace-online/ (whiteSpace)
