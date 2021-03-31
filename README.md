@@ -50,3 +50,11 @@
 
 - http://vii5ard.github.io/whitespace/ (WhiteSpace avec assambleur)
 - https://www.jdoodle.com/execute-whitespace-online/ (whiteSpace)
+
+### Solver 
+
+- https://github.com/blukat29/regex-crossword-solver (regex-crossword-solver)
+
+### Finder 
+- https://tineye.com/ (image finder)
+- 
