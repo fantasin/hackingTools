@@ -26,6 +26,14 @@
 <img src="./images/magicEye.png_large" width="100" height="100"
      style="float: left; margin-right: 10px;" />
 
+## Binary
+## .sal ou bin header est "Saleae"
+=> information transmise et récupérer, lisable avec le logiciel "Logic 2 Software"
+
+- https://www.saleae.com/
+- https://www.saleae.com/downloads/
+
+(https://tay1or.li/post/cyber-apocalypse-2021/)
 
 ## Forensics
 
