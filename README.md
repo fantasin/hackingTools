@@ -13,6 +13,7 @@
 
 ## Steganography
 
+- http://steghide.sourceforge.net/documentation/manpage.php ( permet de vérifier les image) 
 - http://www.jjtc.com/Steganography/tools.html (liste application Stenography)
 - https://incoherency.co.uk/image-steganography/#unhide (bruit image)
 
